@@ -1,4 +1,4 @@
- **SPLITX  EXcel Function**
+ **SPLITX  Excel Function**
 
  **Política de Privacidad:**
 
