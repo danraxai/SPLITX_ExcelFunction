@@ -1,6 +1,6 @@
  **SPLITX  EXcel Function**
 
- Política de PrivacidaD:
+ **Política de Privacidad:**
 
 *Última actualización: 06/09/2024*  
 El creador de este complemento respeta y protege la privacidad de los usuarios. Esta política de privacidad describe cómo se recopila, usa y comparte la información personal cuando se utiliza la aplicación.
