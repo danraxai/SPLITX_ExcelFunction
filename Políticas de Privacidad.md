@@ -27,5 +27,5 @@ El creador de este complemento se reserva el derecho de modificar esta política
 
 6\. Contacto
 
-Si tiene alguna pregunta sobre la política de privacidad, puede contactar al creador de este complemento a través del siguiente correo electrónico: *danielraxai@gmail.com.*
+Si tiene alguna pregunta sobre la política de privacidad, puede contactar al creador de este script a través de la [página de Issues en GitHub](https://github.com/tu-usuario/tu-repositorio/issues).*
 
