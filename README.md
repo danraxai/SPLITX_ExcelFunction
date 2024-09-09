@@ -11,7 +11,7 @@ Este complemento de Excel permite dividir texto en celdas usando múltiples deli
 
 ## Descargar el Complemento
 Puedes descargar el complemento ExcelAddin.xlam desde el siguiente enlace:
-[Descargar ExcelAddin.xlam](#)
+[Descargar SPLITX.xlam]([#](https://github.com/danraxai/SPLITX_ExcelFunction/blob/main/SPLITX.xlam))
 
 ## Instalación
 1. Descargar el Archivo:
