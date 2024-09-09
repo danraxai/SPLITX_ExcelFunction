@@ -4,13 +4,16 @@ Complemento de Excel para dividir texto en celdas verticales u horizontales usan
 ## Descripción
 Este complemento de Excel permite dividir texto en celdas usando múltiples delimitadores.
 
+## Idiomas de Función
+IMAGEX (Inglés) / IMAGENX (Español).
+
 ## Características Principales
 - Versatilidad: SPLITX puede manejar hasta tres delimitadores diferentes, lo que la hace extremadamente flexible para diversas necesidades de procesamiento de texto.
 - Dirección Personalizable: Puedes elegir si deseas que las partes del texto se distribuyan horizontalmente (en filas) o verticalmente (en columnas).
 - Fácil de Usar: Con una sintaxis clara y sencilla, SPLITX se integra perfectamente en tus hojas de cálculo de Excel, mejorando tu flujo de trabajo sin complicaciones.
 
 ## Descargar el Complemento
-Puedes descargar el complemento ExcelAddin.xlam desde el siguiente enlace:
+Puedes descargar el complemento SPLITX.xlam desde el siguiente enlace:
 [Descargar SPLITX.xlam]([#](https://github.com/danraxai/SPLITX_ExcelFunction/blob/main/SPLITX.xlam))
 
 ## Instalación
